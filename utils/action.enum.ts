@@ -1,7 +1,7 @@
 export enum Action {
     Get,
     List,
-    Insert,
-    Update,
+    Post,
+    Put,
     Delete
 }
